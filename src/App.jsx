@@ -12,7 +12,7 @@ const App = () => {
    <div>
     <Navbar/>
     <Carousel/>
-    {/* <div className="container">
+    <div className="container">
       <div className="row">
 
         { infoTarjetas.map((item,index)=>(
@@ -21,10 +21,9 @@ const App = () => {
         ))
  
         }
-    
       </div>
     </div>
-    */}
+  
     <Footer/>
    
    </div>
