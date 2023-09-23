@@ -1,7 +1,7 @@
 import React from 'react'
-import imagen1 from '../assets/img1.png';
-import imagen2 from '../assets/img2.gif';
-import imagen3 from '../assets/img3.avif';
+import imagen1 from '../assets/img1.gif';
+import imagen2 from '../assets/img2.jpg';
+import imagen3 from '../assets/img3.jpg';
 
 import '../css/carousel.css'
 
